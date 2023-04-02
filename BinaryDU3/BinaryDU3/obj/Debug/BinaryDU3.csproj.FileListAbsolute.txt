@@ -1,0 +1,11 @@
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\bin\Debug\BinaryDU3.exe.config
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\bin\Debug\BinaryDU3.exe
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\bin\Debug\BinaryDU3.pdb
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.csproj.AssemblyReference.cache
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.csproj.SuggestedBindingRedirects.cache
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.Form1.resources
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.Properties.Resources.resources
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.exe
+D:\Koj\Programování\C#\BinaryDU3\BinaryDU3\obj\Debug\BinaryDU3.pdb
